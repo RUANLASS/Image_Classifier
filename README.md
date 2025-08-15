@@ -91,7 +91,7 @@ From UI: Go to Deployments -> select your deployment -> Click "Run".
 
 Version History:
 1. Basic model: accuracy of around 50.3%
-2. Addition of data augmentation: accuracy increased to around 63-64%. 
+2. Addition of data augmentation: accuracy increased to around 68.5%. 
 
 Future Enhancements
 - Model Registry Integration: Integrate with tools like MLflow or Weights & Biases for more comprehensive model versioning and tracking.
