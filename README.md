@@ -89,6 +89,9 @@ Go to the "Flow Runs" section to see current and historical runs.
 Now that your deployment is registered, you can trigger new runs via the UI without rerunning python pipeline.py. The Prefect Worker (Terminal 2) will pick these up.
 From UI: Go to Deployments -> select your deployment -> Click "Run".
 
+Version History:
+1. Basic model: accuracy of around 50.3%
+2. Addition of data augmentation: accuracy increased to around 63-64%. 
 
 Future Enhancements
 - Model Registry Integration: Integrate with tools like MLflow or Weights & Biases for more comprehensive model versioning and tracking.
